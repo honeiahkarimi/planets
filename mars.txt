@@ -1,6 +1,17 @@
+.....Planet discussion:
+
 Cold and dry, but everything is my favorite color.
 The moons may be a problem for wolfman.
 But the Mummy will appreciate the lack of humidity. 
 Dracula may get hungry
+<<<<<<< HEAD
 Think about buying an AC unit
 We should go to Venus....
+=======
+What about pluto? Is that considered a planet these days?
+Think about buying an AC unit
+
+Dracula may get hungry- remember snacks
+Think about buying an AC unit
+Mars sounds fun
+>>>>>>> e5b734cc3e3a211263247ebaf7e51e322f2d30a5
